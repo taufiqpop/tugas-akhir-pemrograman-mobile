@@ -1,5 +1,5 @@
 # Tugas-Akhir-Pemrograman-Mobile
-Tugas Akhir Pemrograman Mobile
+Pemrograman Mobile with Android Studio (Aplikasi : 'Music Audio Player')
 
 Membuat Aplikasi menggunakan Android Studio Code
 - Nama Aplikasi : Music Audio Player
