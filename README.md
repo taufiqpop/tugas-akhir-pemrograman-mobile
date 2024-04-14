@@ -1,4 +1,8 @@
 # Tugas-Akhir-Pemrograman-Mobile
-Tugas Akhir Pemrograman Perangkat Mobile
-Bahasa: Java
-Judul: Music Player Apps
+Tugas Akhir Pemrograman Mobile
+
+Membuat Aplikasi menggunakan Android Studio Code
+- Nama Aplikasi : Music Audio Player
+- Bahasa Pemrograman : Java
+
+Dosen : Devi Afriyantari Puspa Putri S.Kom. M.Sc.
